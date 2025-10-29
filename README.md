@@ -104,3 +104,5 @@ aws eks describe-addon \
   --region us-east-1
 ```
 
+**For instructions to enable service mesh observability, check out the service-mesh folder.**
+
